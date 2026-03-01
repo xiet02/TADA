@@ -50,7 +50,7 @@ Focuses on structural binding validation and final candidate prioritization. Not
 
 ## 🛠️ Requirements
 
-* Python 3.x
+* Python >3.8
 * **ColabFold/AlphaFold2**: For structural and multimer predictions.
 * **Biopython & Pandas**: For sequence manipulation and data aggregation.
 * **NetMHCIIpan**: For predicting T-cell epitopes and immunogenicity.
