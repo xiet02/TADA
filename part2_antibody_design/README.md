@@ -42,7 +42,7 @@ Focuses on structural binding validation and final candidate prioritization. Not
 
 * **Multi-Objective Optimization**: Simultaneously optimizes competing objectives, such as binding interface quality and developability parameters including solubility and stability.
 
-* **Advanced Structural Modeling**: Leverages AlphaFold2/3 for structure prediction and docking, incorporating diffusion-based generation for improved antibody-antigen complex modeling.
+* **Advanced Structural Modeling**: Leverages AlphaFold for structure prediction and docking, incorporating diffusion-based generation for improved antibody-antigen complex modeling.
 
 * **Scalable Pipeline**: Accelerates early-stage optimization from traditional 2–4 year cycles to approximately 1–2 weeks, prioritizing the most promising candidates for experimental testing.
 
@@ -59,4 +59,4 @@ Focuses on structural binding validation and final candidate prioritization. Not
 
 If you use this framework in your research, please cite:
 
-*AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (II): in silico Antibody Design and Developability Optimization.*
+*Xie T. (2025) AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (II): in silico Antibody Design and Developability Optimization.*
